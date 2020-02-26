@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "maryem",
+      "email": "mary@gmail.com",
+      "mobile": "065247221",
+      "city": "fès",
+      "gender": "1",
+      "departement": "informatique",
+      "hirDate": "01/02/2020",
+      "isPermanent": "true"
+    },
+    {
+      "id": 2,
+      "fullName": "manal",
+      "email": "manal.am@gmail.com",
+      "mobile": "065255551",
+      "city": "bm",
+      "gender": "1",
+      "departement": "economie",
+      "hirDate": "01/03/2020",
+      "isPermanent": "false"
+    },
+    {
+      "id": 3,
+      "fullName": "maryem ouchalla",
+      "email": "mkjf@233",
+      "mobile": "0568777555",
+      "city": "kech",
+      "gender": "2",
+      "department": "3",
+      "hireDate": "2020-01-09T23:00:00.000Z",
+      "isPermanent": false
+    },
+    {
+      "id": 4,
+      "fullName": "malika",
+      "email": "malika@123.com",
+      "mobile": "026555555",
+      "city": "kech ",
+      "gender": "2",
+      "department": "3",
+      "hireDate": "2020-01-09T23:00:00.000Z",
+      "isPermanent": true
+    },
+    {
+      "id": 5,
+      "fullName": "hib",
+      "email": "hib@12",
+      "mobile": "065555555",
+      "city": "kech",
+      "gender": "2",
+      "department": "2",
+      "hireDate": "2020-01-09T23:00:00.000Z",
+      "isPermanent": true
+    }
+  ]
+}
